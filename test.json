@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Yamaha MT-15 Version 2.0",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/bike.png",
+        "description": "Yamaha MT-15 Version 2.0 is powered by 155 cc engine.This MT-15 Version 2.0 engine generates a power of 18.4 PS @ 10000 rpm and a torque of 14.1 Nm @ 7500 rpm. Yamaha MT-15 Version 2.0 gets Disc brakes in the front and rear.",
+        "price": "RS 159000",
+        "quantity": 10,
+        "email": "imrul@gmail.com",
+        "sold": 4
+    },
+    {
+        "name": "Yamaha YZF R15 V3",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/bike2_4.png",
+        "description": "The R15 V3 is powered by a 155cc single-cylinder liquid-cooled 4-valve motor with Variable Valve Actuation (VVA). It makes 18.6PS and 14.1Nm, 0.7PS and 0.6Nm less than its BS4 counterpart. The engine is mated to a 6-speed gearbox. ",
+        "price": "RS 157000",
+        "quantity": 15,
+        "email": "imrul@gmail.com",
+        "sold": 10
+    },
+    {
+        "name": "Yamaha R15 V4",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/bike3.png",
+        "description": "The Yamaha R15 V4 is powered by a 155cc single-cylinder liquid-cooled 4-valve motor with Variable Valve Actuation (VVA). It makes 18.4PS and 14.2Nm. It also gets a slip-and-assist clutch. While the Deltabox frame remains the same.",
+        "price": "RS 188000",
+        "quantity": 20,
+        "email": "imrul@gmail.com",
+        "sold": 10
+    },
+    {
+        "name": "Yamaha FZS-FI V3",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/l3_1.png",
+        "description": "The 149cc, single-cylinder, fuel-injected motor remains unchanged. It makes 12.4PS of power at 7250rpm and 13.3Nm of torque at 5500rpm, mated to a 5-speed transmission. However, Yamaha says the engine is now tuned for better low-end performance.",
+        "price": "RS 122000",
+        "quantity": 25,
+        "email": "imrul@gmail.com",
+        "sold": 16
+    },
+    {
+        "name": "Yamaha FZ-FI Version 3.0",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/l2_1.png",
+        "description": "Yamaha’s best-sellers, the FZ FI V3 and the FZS FI V3, have witnessed another price hike of Rs 2,500 for select models.After the BS6 updates, the 149cc engine has seen a power drop from 13.2PS to 12.",
+        "price": "RS 109000",
+        "quantity": 30,
+        "email": "imrul@gmail.com",
+        "sold": 9
+    },
+    {
+        "name": "Yamaha FZ-X",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/l4.png",
+        "description": "The FZ-X is powered by an FZ-S sourced 149cc fuel-injected air-cooled engine that pumps out 12.4PS and 13.3Nm, mated to a 5-speed transmission. It’s nestled in a single-cradle chassis. Suspension duties are handled by a gaitered telescopic fork",
+        "price": "RS 127000",
+        "quantity": 35,
+        "email": "imrul@gmail.com",
+        "sold": 20
+    },
+    {
+        "name": "Yamaha FZ 25",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/l5.png",
+        "description": "he new BS6 FZ25 delivers 20.8PS and 20.1Nm, which is 0.1PS less and 0.1Nm more than the existing BS4 FZ 25. The motor comes mated to a 5-speed transmission. Suspension duties are handled by a telescopic fork and a monoshock. ",
+        "price": "RS 159000",
+        "quantity": 40,
+        "email": "imrul@gmail.com",
+        "sold": 22
+    },
+    {
+        "name": "Yamaha FZS 25",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/back_3.jpg",
+        "description": "The FZS 25 is powered by a 249cc single-cylinder, air-cooled motor, putting out 20.8PS and 20.1Nm. The engine comes mated to a 5-speed transmission. There’s no slipper or slip-and-assist clutch.",
+        "price": "RS 175000",
+        "quantity": 42,
+        "email": "imrul@gmail.com",
+        "sold": 19
+    },
+    {
+        "name": "Yamaha Fascino 125",
+        "supplierName": "Supplier: Yamaha",
+        "imgUrl": "https://www.linkpicture.com/q/l6.png",
+        "description": "Yamaha Fascino 125 is powered by 125 cc engine.This Fascino 125 engine generates a power of 8.2 PS @ 6500 rpm and a torque of 10.3 Nm @ 5000 rpm. The claimed mileage of Fascino 125 is 68.75 kmpl. Yamaha Fascino 125 gets Drum brakes in the front and rear.",
+        "price": "RS 123300",
+        "quantity": 45,
+        "email": "imrul@gmail.com",
+        "sold": 29
+    }
+]
